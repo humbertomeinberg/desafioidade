@@ -1,0 +1,51 @@
+.container{
+  width: 100%;
+    min-height: 100vh;
+    background-color: #121212;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 120px
+}
+
+.title{
+  color: #FFF
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  color: black;
+  margin-top: 30px;
+  max-width: 350px;
+  height: 180px;
+  background-color: #fff;
+  padding-top: 18px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 10px;
+}
+
+.input{
+  width: 300px;
+  height: 24px;
+ 
+}
+
+.button{
+  width: 300px;
+  height: 24px;
+  margin-top: 12px;
+  background-color: aqua;
+  font-weight: bold;
+  
+}
+
+.result{
+  margin-top: 70px;
+}
+
+.newTitle{
+  color: #FFF;
+}
+  
